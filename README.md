@@ -1,4 +1,4 @@
-## N.G.O.
+## N.G.O. Calculator
 
 <img src="https://imgur.com/IkCWTFk.png" alt="LSPIS" img align="left" width="200">
 
