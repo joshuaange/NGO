@@ -1,8 +1,8 @@
 ## N.G.O. Calculator
 
-<img src="https://imgur.com/2rwMzMU.png" alt="Output" width="240" align="left">
+<img src="https://imgur.com/2rwMzMU.png" alt="Output" width="235" align="left">
 
-<img src="https://imgur.com/BRScIK6.png" alt="Output" width="240" align="right">
+<img src="https://imgur.com/BRScIK6.png" alt="Output" width="235" align="right">
 
 *u**N**natural **G**ravity **O**ptions Calculator*
 
