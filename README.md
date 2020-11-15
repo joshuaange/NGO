@@ -1,6 +1,8 @@
 ## N.G.O. Calculator
 
-<img src="https://imgur.com/2rwMzMU.png" alt="Output" width="252" align="left">
+<kbd align="left">
+  <img width="240" src="https://imgur.com/2rwMzMU.png">
+</kbd>
 
 <img src="https://imgur.com/BRScIK6.png" alt="Output" width="250" align="right">
 
